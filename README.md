@@ -14,12 +14,6 @@ This case study is designed to help students become familiar with core data anal
 - **Entity-level analysis** — following individual businesses across multiple inspections to measure improvement or chronic non-compliance
 - **Data visualisation** — bar charts, heatmaps, histograms, Pareto curves, and dual-axis plots using Matplotlib and Seaborn
 
-## Contents
-
-| File | Description |
-|------|-------------|
-| `chicago_food_analysis.ipynb` | Main analysis notebook with 20 guided questions |
-| `README.md` | This file |
 
 ## Getting Started
 
@@ -42,7 +36,3 @@ The notebook walks through 20 questions across five themes:
 **Business-level analysis** — inspection frequency per business, recovery rates after a failure, top improvers, and chronically non-compliant establishments.
 
 **Violation analysis** — most common violations in failed inspections, which violations best discriminate failures from passes, associations between violation types and facility categories, and the link between violation count and inspection outcome.
-
-## Dataset Citation
-
-City of Chicago. *Food Inspections*. Chicago Data Portal. [https://data.cityofchicago.org/Health-Human-Services/Food-Inspections/4ijn-s7e5](https://data.cityofchicago.org/Health-Human-Services/Food-Inspections/4ijn-s7e5)
